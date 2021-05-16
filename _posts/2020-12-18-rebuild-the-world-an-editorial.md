@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Rebuild the World: An Editorial'
+date: '2020-12-18'
+author: 'Scamlan and Viper'
+---
+
+![](/assets/rebuildtheworld.png)
+
+Even within the deepest recesses of mankind, societal morals should abound. In these trying times, they should be flourishing. Blooming. Growing. Thriving. Nevertheless, society today sits in a cesspit of moral and ethical concerns, and no one is doing anything about it. However, a few groups are the light in the darkness, and with their help, we sincerely believe that we can rise out of this cessation of moral righteousness and onto the blazingly glorious dawn of the future. 
+
+The complete collapse of moral principles and ethical guidelines within today’s society is a problem that must be addressed. This is self-evident in the fact that racism, sexism, police brutality, etc. still abounds. The mere fact that charities exist; that homeless people exist; that abuse of power still exists, is testimony to the societal issues at the very core of our society. The discriminatory action that flourishes from the very depths of North Carolina’s slums to the highest lyceums of the Ivy League has potential ramifications for all peoples. Pushing ever further into the evils of discrimination are higher-level institutions with their selection processes and police abuse of power in situations that are easily defused. We the people must push back against this corruption of society and the baseless degradation that minorities suffer. It is, as they say, that an ounce of prevention is better than a pound of cure.
+
+Instead of the once abundant moral principles of utilitarianism, consequentialism, deontology and more, our moral philosophies are simply, “I will do what is best for myself, and myself only.” This inherently creates so many fundamental problems with how society is run. Letting people, and more importantly, the individuals in power, essentially do what they please with absolutely no retribution or consequences is a common theme. Evidently, the amount of power we give corrupt and selfish people is increasing, and the amount of good being done in the world continues to plummet like the heart of the train conductor as he reluctantly pulls the switch, sending the one man to his death, instead of the 5. The corrupt nature of our current status, however, would have the train conductor laughing at the sheer chaos that he has created by shooting everyone and claiming self-defence.
+
+We cannot continue to live in this hellhole. We must fight back against injustices, whether by speaking out at an international level or simply doing something in our local community. In our current status quo, we are living in fear and denial. Fix the world by starting small, just like how planting a seed will grow a tree. Join your local diversity council meetings. Broaden your horizons by attending a meeting of the GSA. Actively participate in your community. Together, we can fix our past mistakes. Together, we can prevent further issues. Together, we can rebuild our world. 

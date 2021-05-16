@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'Keeping Up With The Leaders Of The Free World'
+date: '2019-12-11'
+author: 'Apolitical Pundit'
+---
+
+![](/assets/assets-10939601.jpg)
+
+If you have been paying close attention to the world of international affairs, you’ll likely be able to draw some parallels between the conversations between world leaders and the reality TV shows that many of us watch. Petty dramas, heel-face turns, zero personal development, and bigger-than life characters. And the climax to the recent NATO arc has been a massive falling out between two on-again off-again rivals, Justin Trudeau and Donald Trump. In a hot mic “slip-up”, Trudeau puts out some less than complementary comments about Trump to several other powerful world leaders, and Trump responds to this slight by bailing on the rest of the conference, but not before calling Trudeau “two-faced”, presumable one black, one white.
+
+It’s not only this, however. Trump in particular, with his background in TV, has attempted several stunts that are completely in line with what one would expect a C-tier celebrity to do to call attention to themselves. Here, instead of becoming a flat earther or making an explicit video, he goes and falls in love with the dashing prince of North Korea or puts out a totally not photoshopped image of him with the body of a man who’s breakfast is pure protein and steroids.But he’s far from the only one. Macron’s marriage completely overshadowed his policy, at least overseas, during the French election. Meanwhile, Trudeau seems completely obsessed with cultivating a pretty-boy image, and Bolsanaro literally devolved into making fun of an opponent’s wife.
+
+To my dear MUNners, you may have thought the mastery of the spoken word and the written letter is what you learn most from the activity. Well, perhaps the most important thing you will learn is the art of the subtle rumour and the catty note. As we seem to be progressing to a foreign policy built further and further on soundbytes, strongmen,, and interpersonal relationships. And as foreign policy is becoming increasingly determined in the margins of tariff documents, the minutiae of territorial claims, and the thousands of other small details in a globalist world, large-scale international diplomacy becomes little more than a mummer’s act, that is ultimately just fuel for the masses and for the media, to rile up a base or deliver a message with all the precision of a nuclear warhead. But hey, there;s entertainment in watching the world burn. And I know I’ll be in the front seat watching the next season of the realest reality TV on air.

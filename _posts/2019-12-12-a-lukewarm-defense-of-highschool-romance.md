@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'A Lukewarm Defense Of Highschool Romance'
+date: '2019-12-12'
+author: 'Sadboi Collective'
+---
+
+
+![](/assets/assets-romance.png)
+
+For decades, nay, centuries, parents, teachers, and other teens have all scoffed at young love between those coming of age as pointless, juvenile, and ultimately unproductive. But what, pray tell, is the harm in letting teens fool around with one another? Other than the risks of catastrophically, irrevocably broken hearts, of course. After all, isn’t young love just a chance to practice the skills you’ll need in the future to have fulfilling relationships. And love is one of those things that hasn’t changed over history in any way, so how could it possibly be different in high school than in university or later in life? And what if you do find THE one? Ignore all those statistics, what if you DO find your true soulmate in the cold and slightly smelly halls of your educational facility, and go on to live that fantasy of being Canada’s first championship quarterback astronaut bestselling-author billionaire? 
+
+High school love definitely doesn’t come with any of the baggage that adult love will inevitably carry. After all, teens aren’t emotionally mature. There’s no way that dealing with breakups will be psychologically difficult in any way, shape, or form, because we’re just having fun, right? There is also NO chance that the complex emotional exchanges present in a relationship will cause any sort of repercussions in your social life. Those weird teen movies where that happens are all written for drama, and are in no way based on any sliver of truth. You’ll just amicably break up, stay friends, and not have anything come between you and your other friends. Ignore the fact that you’ll see them every day for at least months if not years if you do have a bad breakup, not to mention how that affects the rest of your social circles. And you’re smart. You’d definitely recognize an unhealthy relationship if you ever were “foolish” enough to fall into one, never mind the evidence that not even adults are able to do that all the time, and that youth are far more emotionally vulnerable. 
+
+In fact, what’s up with love anyways? We’re just being controlled by our biological instincts to reproduce instead of focusing on PRODUCTIVITY and EFFICIENCY. Love is overrated. Is it not the best life to pursue the optimal life at the expense of the fulfilling one? Is it not right to sacrifice yourself on the pillar of work to the god of greed? Is it not the ultimate sacrifice to lose your humanity for the sake of humanity as a whole? What is the point of living if you are not successful? What is the point of living if you are not? What is the point of living if you are? What is the point of living if you what is the point of living if what is the point of living in a world where we don’t value what makes use human, if we don’t value what makes life special, if we don’t value what makes existence valuable?
