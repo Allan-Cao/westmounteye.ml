@@ -1,4 +1,5 @@
 ---
+layout: default
 name: Home
 title: Home
 media_order: fdsfsfdsfadssdfsfdfsddsfdsfsdfdsafdsfds.jpg
