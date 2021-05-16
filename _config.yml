@@ -1,1 +1,9 @@
+# Site settings
+title: The Online Home of the Westmount Eye
+author:
+  name: The Westmount Eye
+  email: westmounteyeofficial@gmail.com
+description: The Online Home Of Your Official State-Sponsored Truth for Westmount Charter School
+
+# Site Theme
 theme: jekyll-theme-cayman
