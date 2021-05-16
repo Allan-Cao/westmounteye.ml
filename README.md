@@ -17,8 +17,10 @@ title: 'January 21st, 2021'
 date: '2021-01-21'
 author: 'anonymous'
 ---
+
+Article Content (The title is automatically generated.)
 ```
 
 ### Contact
 
-Please Allan for permission to edit the repository at **allan@allancao.ca** or join our [discord](discord.gg/PMKHXBE) for general Westmount Eye related issues.
+Please contact Allan for issues regarding this repository at **allan@allancao.ca** or join our [discord](discord.gg/PMKHXBE) for general Westmount Eye related queries.
