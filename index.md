@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: index
 title: Home
+banner-title: Welcome To The Online Home Of Your Official State-Sponsored Truth
 ---
-
-# Welcome To The Online Home Of Your Official State-Sponsored Truth
 
 A full digital archive of all stories published in the Westmount Eye are hosted on this website
 
