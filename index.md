@@ -1,10 +1,5 @@
 ---
-<<<<<<< Updated upstream
 layout: default
-name: Home
-=======
-layout: index
->>>>>>> Stashed changes
 title: Home
 banner-title: Welcome To The Online Home Of Your Official State-Sponsored Truth
 ---
