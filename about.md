@@ -2,7 +2,6 @@
 layout: home
 title: About
 permalink: /about/
-banner-title: The Westmount Eye
 ---
 
 The Westmount Eye is the official school newspaper of <u>Westmount Charter School, 2215 Uxbridge Drive NW Calgary, Alberta</u>.
