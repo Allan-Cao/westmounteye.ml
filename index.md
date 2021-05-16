@@ -1,4 +1,5 @@
 ---
+name: Home
 title: Home
 media_order: fdsfsfdsfadssdfsfdfsddsfdsfsdfdsafdsfds.jpg
 body_classes: 'title-center title-h1h2'
@@ -9,18 +10,7 @@ twittercardoptions: summary
 twittershareimg: /home/fdsfsfdsfadssdfsfdfsddsfdsfsdfdsafdsfds.jpg
 twittertitle: 'Home | Westmount Eye'
 twitterdescription: 'Welcome To The Online Home Of Your Official State-Sponsored Truth. A full digital archive of all stories is available here.'
-articleenabled: false
-musiceventenabled: false
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-eventenabled: false
-personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
+
 ---
 
 # The Westmount Eye
